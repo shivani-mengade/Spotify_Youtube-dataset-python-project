@@ -1,6 +1,6 @@
-## Spotify Youtube Dataset
+# Spotify Youtube Dataset
 I used functions like drop, fillna, groupby etc. Used the different python libraries.
-# In I have analysed the big dataset of Spotify & YouTube. There are multiple questions were answered with Python.
+## In I have analysed the big dataset of Spotify & YouTube. There are multiple questions were answered with Python.
 
 Q.1) Top 10 Artists - with the Highest Views on YouTube?
 Q.2) Top 10 Tracks - with the Highest Streams on Spotify?
